@@ -1,0 +1,22 @@
+---
+title: Page not found
+slug: '404'
+position: 99
+listed: false
+published: true
+is_layout: false
+---
+{% extends index %}
+{% block 'main' %}
+<header>
+  <div class='container'>
+    <div class='row'>
+      <div class='col-lg-12'>
+        {% editable_text message %}
+        <h1>Arrggggh, page not found</h1>
+        {% endeditable_text %}
+      </div>
+    </div>
+  </div>
+</header>
+{% endblock %}

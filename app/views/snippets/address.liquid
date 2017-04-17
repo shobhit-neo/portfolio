@@ -1,0 +1,9 @@
+<p>
+  {{ site.metafields.address.street }}
+  <br>
+  {{ site.metafields.address.city }}
+  <br>
+  {% if site.metafields.address.country %}
+  {{ site.metafields.address.country }}
+  {% endif %}
+</p>

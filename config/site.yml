@@ -1,0 +1,23 @@
+name: Portfolio
+locales: [en]
+domains: []
+timezone: UTC
+seo_title: ''
+meta_keywords: ''
+meta_description: ''
+robots_txt: ''
+metafields:
+  address:
+    street: 700 South Laflin Street
+    city: Chicago, IL 60607
+  social:
+    facebook: http://locomotive.works
+    google: http://locomotive.works
+    twitter: http://locomotive.works
+    linkedin: http://locomotive.works
+    dribbble: http://locomotive.works
+  theme:
+    main_color: "#533872"
+    alt_color: "#5f82de"
+metafields_ui:
+  label: Site properties

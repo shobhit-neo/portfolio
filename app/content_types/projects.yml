@@ -1,0 +1,52 @@
+name: Projects
+slug: projects
+description: Manage all your projects displayed in the home page.
+label_field_name: name
+order_by: _position
+order_direction: asc
+group_by: category
+public_submission_enabled: false
+public_submission_account_emails: []
+display_settings:
+  position: 1
+fields:
+- name:
+    label: Name
+    type: string
+    required: true
+    hint: Explanatory text displayed in the back office
+    localized: false
+- image:
+    label: Image
+    type: file
+    required: false
+    hint: Explanatory text displayed in the back office
+    localized: false
+- description:
+    label: Description
+    type: text
+    required: false
+    hint: Explanatory text displayed in the back office
+    localized: false
+- client:
+    label: Client's name
+    type: string
+    required: false
+    hint: Explanatory text displayed in the back office
+    localized: false
+- date:
+    label: Date
+    type: date
+    required: false
+    hint: Explanatory text displayed in the back office
+    localized: false
+- category:
+    label: Category
+    type: select
+    required: false
+    hint: Explanatory text displayed in the back office
+    localized: false
+    select_options:
+    - Hardware
+    - Interface
+    - Marketing

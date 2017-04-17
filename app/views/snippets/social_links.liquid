@@ -1,0 +1,11 @@
+<ul class='list-inline'>
+  {% for metafield in site.metafields.social %}
+  {% if metafield.value %}
+  <li>
+    <a href='{{ metafield.value }}'>
+      <i class='fa fa-fw fa-{{ metafield.name }}'></i>
+    </a>
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>

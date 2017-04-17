@@ -1,0 +1,52 @@
+---
+address:
+  label:
+    default: Address
+  position: 0
+  fields:
+    street:
+      position: 0
+      type: string
+      hint:
+        default: Displayed in the footer
+    city:
+      position: 1
+      type: string
+      hint:
+        default: Displayed in the footer
+    country:
+      position: 2
+      type: string
+      hint:
+        default: Displayed in the footer
+social:
+  label:
+    default: Social links
+  position: 1
+  fields:
+    facebook:
+      position: 0
+    google:
+      position: 1
+    twitter:
+      position: 2
+    linkedin:
+      position: 3
+    dribbble:
+      position: 4
+theme:
+  label:
+    default: Theme
+  position: 2
+  fields:
+    main_color:
+      position: 0
+      type: color
+      hint:
+        default: Color used for the nav and the footer backgrounds
+    alt_color:
+      position: 1
+      type: color
+      hint:
+        default: Color used for the buttons and section background like the About
+          one

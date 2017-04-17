@@ -1,0 +1,7 @@
+# Logfile created on 2017-04-17 16:51:50 +0530 by logger.rb/53141
+I, [2017-04-17T16:51:50.103468 #31869]  INFO -- : Thin web server (v1.7.0 codename Dunder Mifflin)
+I, [2017-04-17T16:51:50.103590 #31869]  INFO -- : Maximum connections set to 1024
+I, [2017-04-17T16:51:50.103634 #31869]  INFO -- : Listening on 0.0.0.0:3333, CTRL+C to stop
+I, [2017-04-17T16:55:20.560541 #32185]  INFO -- : Thin web server (v1.7.0 codename Dunder Mifflin)
+I, [2017-04-17T16:55:20.560676 #32185]  INFO -- : Maximum connections set to 1024
+I, [2017-04-17T16:55:20.560710 #32185]  INFO -- : Listening on 0.0.0.0:3333, CTRL+C to stop

@@ -1,0 +1,37 @@
+- OrganTree:
+    _slug: sample-1
+    name: OrganTree
+    image: "/samples/content_entries/Screenshot_from_2017-03-30_13_30_51.png"
+    description: "<p></p><p>Organtree is a web-based application designed for a new
+      approach to saving lives through organ donation.Help to save lives by donating
+      your organs when you pass on and have your loved ones compensated for their
+      associated.</p><p>Entities / Modules<br>1: Donor<br>2: Hospitals<br>3: Recipients</p><p>Donor:
+      An individual wishing to become an Organ tree donor goes through a quick registration
+      process and then nominates his/her beneficiary.</p><p>Hospitals: Hospital staff
+      can access the secure organtree in order to match up registered recipients and
+      donors.They are the only parties who can view donor's and recipient's personal
+      details.</p><p>Recipients: Registered recipients become eligible to receive
+      donated Organtree donors if they choose to accept a donated organ, they compensate
+      the donors beneficiery a &nbsp;set amount.</p><p></p>"
+    client: Hillel
+    date: '2016-12-22'
+    category: Interface
+- Homify:
+    _slug: sample-2
+    name: Homify
+    image: "/samples/content_entries/Homepage.png"
+    description: "<p>Homify is an architecture and design portal that connects users
+      and professionals worldwide. Those looking for inspiration for their home are
+      guaranteed to find it here: more than 100,000 professionals from around the
+      world, including architects, interior designers and furniture designers, use
+      the platform as a portfolio.</p><p>&nbsp; &nbsp; &nbsp;The most exciting projects,
+      as well as tips &amp; tricks on architecture, construction and housing, are
+      featured regularly in the magazine. From your dream kitchen to creative garden
+      ideas - all projects, with a collective 1,000,000 images, can be saved and annotated
+      in your own ideabook, so that no source of inspiration is lost.<br>&nbsp; &nbsp;
+      Whether laying a new floor, renovating the bathroom or cultivating your winter
+      garden, at homify not only can you find the right expert for the job but you
+      can also contact them.</p><br>"
+    client: Phillip
+    date: '2016-06-30'
+    category: Marketing
